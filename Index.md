@@ -39,12 +39,3 @@ Bash
 node -v
 npm -v
 Note down or take a screenshot of the version numbers outputted in the terminal.
-
-Submission Checklist
-Make sure you capture the required screenshots for your final submission:
-
-VS Code Screenshot: Showing your open web-development-practice folder with index.html, style.css, and script.js visible in the Explorer sidebar, along with the installed extensions.
-
-Node.js Version Screenshot: Showing your terminal window with the successful output of node -v and npm -v.
-
-Browser Screenshot: Showing your web browser running your HTML page locally via Live Server.
